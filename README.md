@@ -1,1 +1,1 @@
-"# translator_with_npm_pack" 
+"# translator_with_npm-pack" 
